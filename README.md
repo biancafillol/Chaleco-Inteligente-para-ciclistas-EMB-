@@ -10,7 +10,7 @@ Diseñar un prototipo funcional de chaleco que:
 
 ## Componentes principales
 
-- ESP32 (microcontrolador principal)
+- ESP32 (uno para manejar la botonera y otro para la matriz LED)
 - Módulo LED MAX7219 (4 matrices 8x8 en cascada)
 - Botonera (4 botones para señalizar acciones)
 - Batería externa (power bank)
