@@ -41,7 +41,7 @@ En este repositorio encontrarás los siguientes códigos:
 ## Integrantes del proyecto
 
 **Bianca Fillol, Agustina Bover y Manuel Bernabei**  
-Estudiante de Ingeniería en Computación - UNRN  
+Estudiantes de Ingeniería en Computación - UNRN  
 
 ---
 
